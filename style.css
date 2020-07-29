@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f4fb;
+}
+
+.alert {
+  display: none;
+}
+.btn {
+  padding: 1em;
+}
+
+.btn-primary {
+  background: linear-gradient(
+    90deg,
+    rgba(165, 216, 248, 1) 0%,
+    rgba(114, 155, 251, 1) 35%,
+    rgba(34, 103, 211, 1) 100%
+  );
+  border: none;
+}
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}

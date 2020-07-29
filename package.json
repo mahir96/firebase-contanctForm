@@ -1,0 +1,19 @@
+{
+  "name": "firebasecontact",
+  "version": "1.0.0",
+  "description": "Create a contact-form with bootstrap\r connect it with firebase\r The form should contain the following things [name, email, company, Phone-Number, Message]\r The form should have a title, address",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahir96/firebase-contanctForm.git"
+  },
+  "author": "Mahir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahir96/firebase-contanctForm/issues"
+  },
+  "homepage": "https://github.com/mahir96/firebase-contanctForm#readme"
+}
