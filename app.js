@@ -36,6 +36,9 @@ function submitForm(e) {
   setTimeout(() => {
     document.querySelector(".alert").style.display = "none";
   }, 3000);
+
+  // Clear form
+  document.getElementById("control-from").reset();
 }
 
 // function to get form value
